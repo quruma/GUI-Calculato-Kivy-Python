@@ -1,4 +1,4 @@
-# GUI-Calculato-Kivy-Python
+# GUI-Calculator-Kivy-Python
 
 Gui Calculator using Kivy Python library.
 
