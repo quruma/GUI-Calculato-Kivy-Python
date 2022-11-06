@@ -5,7 +5,7 @@ Gui Calculator using Kivy Python library.
 <h2>Windows</h2>
 > pip install kivy
 <h2>Linux</h2>
-Check installation tutorial on kivy [official website](https://kivy.org/doc/stable/installation/installation-linux.html). 
+Check installation tutorial on [official website](https://kivy.org/doc/stable/installation/installation-linux.html). 
 <br>
 <br>
 <br>
