@@ -6,7 +6,7 @@ Gui Calculator using Kivy Python library.
 
 
 ## Prerequisites
-The only thing you need to install is python kivy library to work with graphics.
+The only thing you need to install is python kivy library, which will help you create GUI
 ## Windows
 
 > pip install kivy
