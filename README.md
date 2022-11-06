@@ -1,19 +1,22 @@
 
 # GUI-Calculator-Kivy-Python
 
-<h1>Description</h1>
+##Description
 Gui Calculator using Kivy Python library.
 
-<h1>Prerequisites</h1>
 
-<h2>Windows</h2>
+##Prerequisites
+
+###Windows
+
 > pip install kivy
-> 
-<h2>Linux</h2>
+
+
+###Linux
+
 Check installation tutorial on [official website](https://kivy.org/doc/stable/installation/installation-linux.html). 
 
-<br>
-<br>
+###Example
 
 
 
