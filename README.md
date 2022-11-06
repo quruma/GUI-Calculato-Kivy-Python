@@ -1,7 +1,7 @@
 
 # GUI-Calculator-Kivy-Python
 
-##Description
+## Description
 Gui Calculator using Kivy Python library.
 
 
