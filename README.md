@@ -12,9 +12,6 @@ Check installation tutorial on [official website](https://kivy.org/doc/stable/in
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
